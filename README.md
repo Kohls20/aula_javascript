@@ -1,2 +1,2 @@
 # aula_javascript
-Introdução ao JavaScript
+Aula de intodução ao JavaScript, curso "Programação para internet com JavaScript" da Digital Innovation One(DIO).
